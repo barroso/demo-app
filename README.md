@@ -2,6 +2,8 @@
 
 Este projeto será utilizado para ensino, vou criar os passos para instalar o Ruby, Npm e PostgreSQL.
 
+Projeto baseado no post https://medium.com/@bruno_boehm/reactjs-ruby-on-rails-api-heroku-app-2645c93f0814
+
 Instruções:
 
 * Ruby version
@@ -17,3 +19,4 @@ Instruções:
 * How to run the test suite: Rspec
 
 * Services: Rails e React
+
