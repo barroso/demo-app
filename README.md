@@ -15,6 +15,8 @@ Projeto baseado no post: (https://medium.com/@bruno_boehm/reactjs-ruby-on-rails-
 * Database creation: PostgreSQL
 
 * Database initialization
+- rake db:create
+- rake db:migrate (sempre que tiver migrate nova, vamos rodar este comando)
 
 * How to run the test suite: Rspec
 
