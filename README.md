@@ -1,9 +1,8 @@
-# README
+# Projeto base para ensino das tecnologias Ruby + React.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este projeto será utilizado para ensino, vou criar os passos para instalar o Ruby, Npm e PostgreSQL.
 
-Things you may want to cover:
+Instruções:
 
 * Ruby version
 
@@ -11,14 +10,10 @@ Things you may want to cover:
 
 * Configuration
 
-* Database creation
+* Database creation: PostgreSQL
 
 * Database initialization
 
-* How to run the test suite
+* How to run the test suite: Rspec
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Services: Rails e React
