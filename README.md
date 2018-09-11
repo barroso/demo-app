@@ -11,6 +11,7 @@ Projeto baseado no post: (https://medium.com/@bruno_boehm/reactjs-ruby-on-rails-
 * System dependencies
 
 * Configuration
+- depois que colocar o axios no package, rodar yarn install
 
 * Database creation: PostgreSQL
 
