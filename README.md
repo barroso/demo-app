@@ -7,13 +7,16 @@ Projeto baseado no post: (https://medium.com/@bruno_boehm/reactjs-ruby-on-rails-
 # Instruções:
 
 * Ruby version
+- Eu uso o rbenv para instalar o ruby e suas versões, seguem mais detalhes (https://www.ruby-lang.org/pt/documentation/installation/)
 
 * System dependencies
+- NPM https://www.npmjs.com/get-npm
 
 * Configuration
 - depois que colocar o axios no package, rodar yarn install
 
-* Database creation: PostgreSQL
+* Database install: PostgreSQL
+- (https://www.postgresql.org/download/)
 
 * Database initialization
 - rake db:create
