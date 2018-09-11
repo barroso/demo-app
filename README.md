@@ -22,6 +22,8 @@ Projeto baseado no post: (https://medium.com/@bruno_boehm/reactjs-ruby-on-rails-
 * How to run the test suite: Rspec
 
 * Services: Rails e React
+- rails s -p 3001
+- yarn start
 
 # React com Yarn (https://yarnpkg.com/pt-BR/)
   - yarn start
